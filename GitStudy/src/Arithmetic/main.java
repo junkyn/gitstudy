@@ -21,7 +21,7 @@ public class main {
 	}
 
 	static int multiply(int a, int b) {
-		return a * b;
+		return a * b;  
 	}
 
 
