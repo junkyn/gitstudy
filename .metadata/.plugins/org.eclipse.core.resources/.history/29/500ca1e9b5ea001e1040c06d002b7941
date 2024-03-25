@@ -30,6 +30,6 @@ public class main {
 		return a-b;
 	}
 	static void name() {
-		System.out.println("준규tv");
+		System.out.println("지수tv");
 	}
 }
