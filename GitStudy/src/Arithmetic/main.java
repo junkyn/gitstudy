@@ -25,4 +25,10 @@ public class main {
 		return a+b;
 
 	}
+	int minus(int a, int b) {
+		return a-b;
+	}
+	void name() {
+		System.out.println("지수tv");
+	}
 }
