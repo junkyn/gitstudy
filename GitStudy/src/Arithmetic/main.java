@@ -12,23 +12,25 @@ public class main {
 		int a = sc.nextInt();
 		System.out.print("b = ");
 		int b = sc.nextInt();
-	
+		
+		minus(a,b);
+		name();
 		
 		sc.close();
 	}
 
 
-	int multiply(int a, int b) {
-		return a*b;
+	static int multiply(int a, int b) {
+		return a*b;}
 
-	int add(int a, int b) {
+	static int add(int a, int b) {
 		return a+b;
 
 	}
-	int minus(int a, int b) {
+	static int minus(int a, int b) {
 		return a-b;
 	}
-	void name() {
+	static void name() {
 		System.out.println("지수tv");
 	}
 }
