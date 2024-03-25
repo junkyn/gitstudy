@@ -17,4 +17,7 @@ public class main {
 		sc.close();
 	}
 
+	int add(int a, int b) {
+		return a+b;
+	}
 }
